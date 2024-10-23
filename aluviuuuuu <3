@@ -1,0 +1,24 @@
+
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minta Maaf</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Sayang, aku minta maaf</h1>
+        <p>Halo <span id="Aluviuuukuu">Aluviuukuuu</span>,</p>
+        <p>Aku minta maaf dari hatiku yang paling dalam. aku minta maaf karena <span id="alasan">aku sudah bikin sayang sakit hati, aku sudah rusak semuanya.</span></p>
+        <p>Aku janji bakal perbaiki diri dan nda akan mengulangi kesalahanku lagi.</p>
+        <p>Aku sayang betul sama sayang dan aku mau kita sama sama terus.</p>
+        <p>maafin aku ya sayang.</p>
+        <p>i love you so much aluviuuuu,<br>[dendy <3]</p>
+    </div>
+</body>
+</html>
+
+
+
